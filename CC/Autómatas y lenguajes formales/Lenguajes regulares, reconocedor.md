@@ -1,0 +1,4 @@
+---
+fecha : 22-08-2023
+---
+[Lenguajes regulares, reconocedor](onenote:https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/Documents/4º%20semestre/Autómatas%20y%20lenguajes%20formales.one#Lenguajes%20regulares,%20reconocedor&section-id={11391ECA-0AFC-9D46-8C0C-32482CF5B189}&page-id={AF25C84A-B2CA-8E4A-9095-CC5179BEA3CC}&end)  ([Vista web](https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdaniel278_comunidad_unam_mx%2FDocuments%2F4%C2%BA%20semestre&wd=target%28Aut%C3%B3matas%20y%20lenguajes%20formales.one%7C11391ECA-0AFC-9D46-8C0C-32482CF5B189%2FLenguajes%20regulares%2C%20reconocedor%7CAF25C84A-B2CA-8E4A-9095-CC5179BEA3CC%2F%29))

@@ -1,0 +1,4 @@
+---
+fecha : 23-08-2023
+---
+[Demostración paréntesis balanceados](onenote:https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/Documents/4º%20semestre/Autómatas%20y%20lenguajes%20formales.one#Demostración%20paréntesis%20balanceados&section-id={11391ECA-0AFC-9D46-8C0C-32482CF5B189}&page-id={0BDA90CD-607B-B048-8625-BD1564F9574E}&end)  ([Vista web](https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdaniel278_comunidad_unam_mx%2FDocuments%2F4%C2%BA%20semestre&wd=target%28Aut%C3%B3matas%20y%20lenguajes%20formales.one%7C11391ECA-0AFC-9D46-8C0C-32482CF5B189%2FDemostraci%C3%B3n%20par%C3%A9ntesis%20balanceados%7C0BDA90CD-607B-B048-8625-BD1564F9574E%2F%29))

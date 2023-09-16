@@ -1,0 +1,4 @@
+---
+fecha : 22-08-2023
+---
+[Ayudantía Haskell](onenote:https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/Documents/4º%20semestre/Lógica%20computacional.one#Ayudantía%20Haskell&section-id={C7134C4D-60FD-FA47-A79F-D3FCAB68C528}&page-id={A2AD3500-4A40-134D-88C7-0A555AB7095D}&end)  ([Vista web](https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdaniel278_comunidad_unam_mx%2FDocuments%2F4%C2%BA%20semestre&wd=target%28L%C3%B3gica%20computacional.one%7CC7134C4D-60FD-FA47-A79F-D3FCAB68C528%2FAyudant%C3%ADa%20Haskell%7CA2AD3500-4A40-134D-88C7-0A555AB7095D%2F%29))

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "spacepreview",
+    "image_center"
+  ],
+  "baseFontSize": 15,
+  "showViewHeader": true
+}

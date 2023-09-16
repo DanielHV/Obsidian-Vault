@@ -1,0 +1,4 @@
+---
+fecha : 22-08-2023
+---
+[Ejemplo de máquina de Turing](onenote:https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/Documents/4º%20semestre/Introducción%20a%20las%20funciones%20recursivas%20y%20computabilidad.one#Ejemplo%20de%20máquina%20de%20Turing&section-id={64F03743-E5AC-8245-9123-B9311B52260D}&page-id={D3A1AB38-116B-3A48-811C-9D89D74F2322}&end)   ([Vista web](https://comunidadunammx-my.sharepoint.com/personal/daniel278_comunidad_unam_mx/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdaniel278_comunidad_unam_mx%2FDocuments%2F4%C2%BA%20semestre&wd=target%28Introducci%C3%B3n%20a%20las%20funciones%20recursivas%20y%20computabilidad.one%7C64F03743-E5AC-8245-9123-B9311B52260D%2FEjemplo%20de%20m%C3%A1quina%20de%20Turing%7CD3A1AB38-116B-3A48-811C-9D89D74F2322%2F%29))
