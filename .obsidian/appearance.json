@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
+  "accentColor": "#d1daff",
+  "cssTheme": "Atom",
   "enabledCssSnippets": [
     "spacepreview",
     "image_center"

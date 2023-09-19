@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Introduction to defensive security/Intro to digital forensics.md",
+                "file": "Security operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4264bf77b0c38c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resolución binaria.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security operations.md",
+                "file": "Resolución binaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security operations.md",
+                "file": "Resolución binaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security operations.md"
+                "file": "Resolución binaria.md"
               }
             }
           },
@@ -226,11 +238,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57ce68d568530e55",
+  "active": "4264bf77b0c38c0c",
   "lastOpenFiles": [
-    "Obsidian-vault",
-    "TryHackMe/Introduction to defensive security/Intro to digital forensics.md",
     "Security operations.md",
+    "Resolución binaria.md",
+    "TryHackMe/Introduction to defensive security/Intro to digital forensics.md",
+    "Untitled.md",
+    "Obsidian-vault",
     "Imágenes/Pasted image 20230912144742.png",
     "Imágenes/Pasted image 20230912143608.png",
     "Imágenes/Pasted image 20230912143109.png",
@@ -241,7 +255,6 @@
     "Imágenes/Pasted image 20230912132328.png",
     "Imágenes/Pasted image 20230912132224.png",
     "Imágenes/Pasted image 20230912131217.png",
-    "Untitled.md",
     "CC/Autómatas y lenguajes formales/Algoritmo de minimización.md",
     "CC/Lista de notas.md",
     "CC/Lógica computacional/Equivalencia de fórmulas y argumentos correctos relevantes.md",
@@ -273,7 +286,6 @@
     "TryHackMe",
     "CC/Matemáticas para las ciencias aplicadas IV",
     "Context/spacesLastSync.log",
-    "Context",
     "Untitled.canvas"
   ]
 }

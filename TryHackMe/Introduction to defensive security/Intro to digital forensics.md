@@ -25,8 +25,7 @@ At the lab, the process goes as follows:
 3. Return the digital evidence to the secure container: You will be working on the copy. If you damage the copy, you can always create a new one.
 4. Start processing the copy on your forensics workstation.
 
-The above steps have been adapted from [Guide to Computer Forensics and Investigations, 6th Edition](https://www.cengage.uk/shop/isbn/9781337568944).
-
+The above steps have been adapted from [Guide to Computer Forensics and Investigations, 6th Edition](https://www.cengage.uk/shop/isbn/9781337568944)
 More generally, according to the former director of the Defense Computer Forensics Laboratory, Ken Zatyko, digital forensics includes:
 
 - Proper search authority: Investigators cannot commence without the proper legal authority.
